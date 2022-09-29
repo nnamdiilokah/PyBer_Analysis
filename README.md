@@ -16,9 +16,9 @@
 
    + Total Amount of Fares for Each City Type - As expected, due to the high number of rides and drivers in the Urban city type, the Urban city type generated the highest total fares, an amount of $39854.38.
 
-   + Average Fare per Ride for Each City Type - The average fare per ride to the nearest tenth were comparatively the same for Urban and Suburban city types, a difference of approximately $4 more for the Urban city type while the Rural city type was slightly below by the Urban city type by $10.
+   + Average Fare per Ride for Each City Type - The average fare per ride was highest in the Rural City type, $4 and $10 more than the Suburban and Urban city types respectively.
 
-   + Average Fare per driver for Each City Type - The average fare per driver for the Urban city type was $19 more than that of the Suburban city type and $39 more than that of the Rural City type.
+   + Average Fare per driver for Each City Type - The average fare per driver for the rural city type was $19 more than that of the Suburban city type and $39 more than that of the urban City type.
 
    
    The mutli-line graph below will be used to explain the result for the final analysis:
@@ -33,4 +33,7 @@
    ## Summary
    
    Based on the above analysis, the following recommendations are suggested to improve performance and profitability:
+   1) Palliatives to encourage more drivers in the Rural city to enrol in Pyber to increase the number of drivers, number of rides and drive up income in the rural city type.
+   2) Increment in the fares accessible to drivers in the Urban city type to encourage them to complete more rides and increase profitability.
+   3) Digital marketing to drive up awareness in the Rural and Suburban city types to aid increase the number of rides.
    
